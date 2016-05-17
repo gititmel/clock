@@ -1,0 +1,30 @@
+body{
+	background: orange;
+}
+
+#ss{
+	border 	:solid black 1px;
+	width 	: 100px;
+	height 	: 50vh;
+	position: relative;
+	float 	:left;
+	left 	:0px;
+}
+
+#mm{
+	border 	:solid red 1px;
+	width 	: 100px;
+	height 	: 50vh;
+	position : absolute;
+	float 	:left;
+	left 	: 110px;
+}
+
+#hh{
+	border 	:solid blue 1px;
+	width 	: 100px;
+	height 	: 50vh;
+	position : absolute;
+	float 	: left;
+	left 	: 210px;
+}
